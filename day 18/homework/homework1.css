@@ -1,0 +1,24 @@
+p{
+    color: red;
+    font-size: 25px;
+    font-weight: 200;
+    font-family:Impact;
+}
+h1{
+    color: green;
+    font-family:Verdana;
+}
+
+.centre{
+display: block;
+margin-left:auto;
+margin-right:auto;
+width:30%;
+}
+
+div.p{
+text-align: center;
+}
+body{
+    background-color:aqua
+}

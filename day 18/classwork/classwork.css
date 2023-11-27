@@ -1,0 +1,12 @@
+p,h1{
+    color:red;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "mountains of christmas";
+    font-style: italic;
+
+    text-decoration-line: underline;
+    text-decoration-color: green;
+    text-decoration-style: dashed;
+
+}
