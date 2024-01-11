@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    font-size:53px;
+    font-style: italic;
+    color:rgb(1, 110, 1);
+    outline-color: black;
+    outline-width:0dvi
+}
+
+body{
+    background-color: red;
+}
+
+p{
+    font-size:25px;
+}
+
+a{
+    font-size:xx-large
+}

@@ -1,0 +1,76 @@
+h3{
+    font-size:x-large;
+}
+
+body{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: hsl(0,0%,25%);
+    padding:0px;
+    margin:0px;
+    overflow: hidden;
+}
+
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.price {
+    font-size: xx-large;
+    font-weight:300
+}
+
+.def{
+    font-size:x-large
+}
+
+button{
+    background-color:aqua;
+}
+
+.navbar a:hover{
+    background-color: hsl(0, 0%, 13%)
+}
+
+.navbar li{
+    float:left;
+}
+
+#about{
+    font-size:xx-large;
+    font-weight:300;
+    text-align:center;
+}
+
+.history{
+    font-size:x-large;
+}
+
+.ab{
+    font-size: xx-large;
+}
+
+a{
+    font-size: x-large;
+    color:black;
+}
+
+.cont{
+    color:black;
+    font-size:x-large
+}
+
+.LC{
+    font-size:xx-large;
+    color:black
+}
